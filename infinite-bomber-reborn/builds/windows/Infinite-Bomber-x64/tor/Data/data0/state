@@ -1,0 +1,88 @@
+# Tor state file last generated on 2019-09-11 20:36:17 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=0BCCF364C4EE7338B6E920E63E951922C85F91F7 nickname=bigdaddyny sampled_on=2019-08-31T10:53:50 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=6222334659111D99DE9D26970ACC4022B290DFD0 nickname=UenoStation57 sampled_on=2019-09-06T01:14:43 sampled_by=0.4.0.5 listed=1 confirmed_on=2019-09-03T13:10:25 confirmed_idx=0 pb_use_attempts=76.790165 pb_use_successes=76.790165 pb_circ_attempts=194.620570 pb_circ_successes=188.543010 pb_successful_circuits_closed=188.543010 pb_timeouts=0.446067
+Guard in=default rsa_id=0181B71288CE6D7D57AA7447B9BB0602642CD73B nickname=StarlightGlimmer sampled_on=2019-09-10T19:52:16 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=82D544A72A107E4192A3CA1D649A696EB1FD02A5 nickname=eunyeunrouting sampled_on=2019-09-10T18:26:30 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=5EF0AAAEEE7B1282DA0DBAB94669B73E39DD51B6 nickname=MyCoolNick sampled_on=2019-09-07T09:23:40 sampled_by=0.4.0.5 listed=1 confirmed_on=2019-09-07T07:01:23 confirmed_idx=1
+Guard in=default rsa_id=0C3D5E19E3C75B505C8ACD26F89DCA2DF970553E nickname=HORUS1 sampled_on=2019-09-07T01:49:26 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=4B351545DD58473F36B0A20E5500AC6ED51E8CD5 nickname=idideditheconfig sampled_on=2019-09-01T13:15:43 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=AA5FD0B56C11886213C79E394D59F6E3B2C45E98 nickname=Unnamed sampled_on=2019-09-01T23:23:16 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=CE3FE883C6C9EF475EA097DC3E33A6F32B852DA1 nickname=AIKO sampled_on=2019-09-03T19:33:59 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=AC6A78BAE7BBCAC798C7AD17460147214F9EA0CD nickname=TWCUGRelayNode sampled_on=2019-08-30T19:57:55 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=D7316BF7FD633DD7474B18C33E1D5FDEB04D26A7 nickname=NuclearShack sampled_on=2019-09-07T16:52:23 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=F1F4B2D9FC4794F34DAA40552E8E9609DB61A5B1 nickname=Servify1 sampled_on=2019-09-06T20:28:26 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=D6F05487A3D1C2F7E5870C71F0C718A7B0E00F47 nickname=Unnamed sampled_on=2019-08-31T11:22:46 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=5376786612A903889710250B4CFB39881A6EDF99 nickname=cantstopthesignal2 sampled_on=2019-08-31T16:09:31 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=9C608D09D07CA618A5E2A6D4BFB6AC798449C380 nickname=Unnamed sampled_on=2019-08-30T09:23:32 sampled_by=0.4.0.5 listed=1 confirmed_on=2019-08-31T19:07:05 confirmed_idx=2
+Guard in=default rsa_id=968921B60AB71D8CA92ABC61370F34DE3C7E4E03 nickname=m247 sampled_on=2019-08-31T20:18:02 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=5DC40F5357EDF4809A9010828172072C95A73514 nickname=zwewwlLV1 sampled_on=2019-09-02T21:07:28 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=295F1BD8995A12ECC77E050CCF6EC641572739E9 nickname=angeltest6 sampled_on=2019-09-01T09:50:24 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=F5C3DA7642BB037E0D279359AE88CD7FC03A98A0 nickname=FalkensteinTor02 sampled_on=2019-09-04T11:50:47 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=268216C455A8322E07733961A29110110958D1BF nickname=OloTOR sampled_on=2019-09-04T02:59:34 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=7023F23A897DA6E598AA865A7CA6D159313277BF nickname=NicoRupa sampled_on=2019-08-31T12:57:55 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=DBE82FA23B9FE3CB2462A6FCF5289DED3CBF4AEE nickname=spechttor1 sampled_on=2019-09-04T05:49:56 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=3BB34C63072D9D10E836EE42968713F7B9325F66 nickname=caersidi sampled_on=2019-09-01T03:06:38 sampled_by=0.4.0.5 listed=1 confirmed_on=2019-09-05T05:32:44 confirmed_idx=3
+Guard in=default rsa_id=2BCDDD2006A6000B8D5F6D63C7D6D200E43F8B1B nickname=atomator sampled_on=2019-09-07T01:02:20 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=E37724D8AD87B149EAD2F3DFD3E1681624AC9EE0 nickname=sheldon sampled_on=2019-09-05T15:04:59 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=E16D34415FA09134A866FBD0912C35637C341AC1 nickname=Unnamed sampled_on=2019-08-30T16:54:11 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=E7E56927B87B2E1E93CDC8E9209F9DD120ADFCEF nickname=myNiceRelay sampled_on=2019-09-05T04:04:34 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=2F33A834C3216E8F41684B5114A7ABE68E216B3B nickname=YoloMcSwag sampled_on=2019-09-09T13:21:46 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=6FBD65C22C2996B2038A090BF5E55AA7AEDEE120 nickname=niftyleastgerbil sampled_on=2019-09-05T10:18:03 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=EEA879EACAB8B60DE3C4DB89F9F1005E0E432204 nickname=xtremenw sampled_on=2019-09-08T07:19:57 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=97AEE1EEFBCBB6FF8FA482029830E8E10A961883 nickname=paprika sampled_on=2019-09-05T04:41:10 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=2DF72DC211D17B39FE140F08300B0D26F9CC115D nickname=torpidsDEkeyweb sampled_on=2019-09-06T16:12:52 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=6A7DF1D03EB2DC282C5CE7D870EC0CA35CA246F7 nickname=Cosworth03 sampled_on=2019-09-03T19:25:11 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=C872F9A62B30EA133C53B16475D4F3CCC67E823E nickname=stormwind sampled_on=2019-08-31T15:58:30 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=3DCA95587F917F3F212B598731B97BDB85BFEE92 nickname=TykRelay04 sampled_on=2019-09-02T17:38:24 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=3CE90527D5712296B58E7EB7CD57F7D388D25FBB nickname=modupe sampled_on=2019-09-06T00:37:25 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=372A38794527887333B52ED1D707609D808C0659 nickname=StaySafeUseMonero sampled_on=2019-09-02T20:54:44 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=B923D15EDF4E7B1261876860D51FAB907ED18347 nickname=darmok sampled_on=2019-09-03T03:20:30 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=7961C9991F022C8A363FD440CA395D47DB5D44D5 nickname=Unnamed sampled_on=2019-09-10T00:36:25 sampled_by=0.4.0.5 listed=1
+Guard in=default rsa_id=5B1F0DAF378A1FAFCFD5FA9CDC66D1023DC0276E nickname=fastlane sampled_on=2019-08-30T10:50:12 sampled_by=0.4.0.5 listed=1
+TorVersion Tor 0.4.0.5 (git-bf071e34aa26e096)
+LastWritten 2019-09-11 09:36:17
+TotalBuildTimes 1000
+CircuitBuildAbandonedCount 8
+CircuitBuildTimeBin 675 2
+CircuitBuildTimeBin 725 14
+CircuitBuildTimeBin 775 25
+CircuitBuildTimeBin 825 59
+CircuitBuildTimeBin 875 97
+CircuitBuildTimeBin 925 107
+CircuitBuildTimeBin 975 81
+CircuitBuildTimeBin 1025 145
+CircuitBuildTimeBin 1075 105
+CircuitBuildTimeBin 1125 94
+CircuitBuildTimeBin 1175 74
+CircuitBuildTimeBin 1225 39
+CircuitBuildTimeBin 1275 34
+CircuitBuildTimeBin 1325 26
+CircuitBuildTimeBin 1375 21
+CircuitBuildTimeBin 1425 17
+CircuitBuildTimeBin 1475 9
+CircuitBuildTimeBin 1525 6
+CircuitBuildTimeBin 1575 8
+CircuitBuildTimeBin 1625 6
+CircuitBuildTimeBin 1675 2
+CircuitBuildTimeBin 1725 1
+CircuitBuildTimeBin 1825 3
+CircuitBuildTimeBin 1875 1
+CircuitBuildTimeBin 1925 1
+CircuitBuildTimeBin 2025 1
+CircuitBuildTimeBin 2075 1
+CircuitBuildTimeBin 2125 1
+CircuitBuildTimeBin 2175 2
+CircuitBuildTimeBin 2225 1
+CircuitBuildTimeBin 2375 1
+CircuitBuildTimeBin 2575 1
+CircuitBuildTimeBin 2625 1
+CircuitBuildTimeBin 2675 1
+CircuitBuildTimeBin 2975 1
+CircuitBuildTimeBin 3075 1
+CircuitBuildTimeBin 3175 1
+CircuitBuildTimeBin 3425 1
+CircuitBuildTimeBin 4575 1
+Dormant 0
